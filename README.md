@@ -82,7 +82,7 @@ An Informatics Engineering student who loves building interactive and clean user
 
 <p align="center">
   <a href="https://open.spotify.com/user/313vzi3lxsjawnlbodv2etayxa2e?si=c75b2665323d4937" target="_blank">
-    <img src="https://api.lerndev.me/spotify/313vzi3lxsjawnlbodv2etayxa2e" alt="Spotify Now Playing" />
+    <img src="https://img.shields.io/badge/Spotify-Listening%20to%20Indie%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
   </a>
 </p>
 
