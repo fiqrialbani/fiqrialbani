@@ -2,13 +2,11 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=fiqrialbani&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fiqrialbani&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br/>
   <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrialbani&layout=compact&theme=tokyonight&langs_count=5" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fiqrialbani&layout=compact&theme=tokyonight&langs_count=5" alt="Most Used Languages" />
 </p>
-
----
 
 ## Connect
 
