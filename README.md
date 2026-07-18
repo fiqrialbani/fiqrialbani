@@ -82,7 +82,7 @@ An Informatics Engineering student who loves building interactive and clean user
 
 <p align="center">
   <a href="https://open.spotify.com/user/313vzi3lxsjawnlbodv2etayxa2e?si=c75b2665323d4937" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313vzi3lxsjawnlbodv2etayxa2e&count=1" alt="Spotify Recently Played" />
+    <img src="https://api.lerndev.me/spotify/313vzi3lxsjawnlbodv2etayxa2e" alt="Spotify Now Playing" />
   </a>
 </p>
 
