@@ -8,7 +8,7 @@
 
 ### About Me
 
-Front-end focused engineer who enjoys crafting beautiful web experiences and bringing designs to life through clean code.
+An Informatics Engineering student who loves building interactive and clean user interfaces. Mostly playing around with HTML, CSS, Tailwind, and JavaScript to bring ideas to life.
 
 **Currently:**
 * Building responsive web applications using modern web technologies.
@@ -38,11 +38,11 @@ Front-end focused engineer who enjoys crafting beautiful web experiences and bri
 ## 🔗 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fiqrialbani&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <!-- GitHub Stats Card (Spider-Man Custom Color) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fiqrialbani&show_icons=true&count_private=true&bg_color=0d1117&title_color=ff0000&icon_color=0088ff&text_color=ffffff&border_color=ff0000" alt="GitHub Stats" />
   <br/>
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fiqrialbani&layout=compact&theme=tokyonight&langs_count=5" alt="Most Used Languages" />
+  <!-- Most Used Languages Card (Spider-Man Custom Color) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fiqrialbani&layout=compact&langs_count=5&bg_color=0d1117&title_color=ff0000&text_color=ffffff&border_color=0088ff" alt="Most Used Languages" />
 </p>
 
 ## Connect
