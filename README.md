@@ -53,8 +53,8 @@ An Informatics Engineering student who loves building interactive and clean user
     <img src="https://img.shields.io/badge/LinkedIn-Fiqri%20Albani-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <!-- Email -->
-  <a href="fiqrialbani9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fiqiralbani9@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="mailto:fiqrialbani9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fiqrialbani9%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <!-- GitHub -->
   <a href="https://github.com/fiqrialbani">
