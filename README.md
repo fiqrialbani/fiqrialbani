@@ -19,7 +19,7 @@
   </a>
   <!-- Email -->
   <a href="fiqrialbani9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EMAIL_KAMU-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-fiqiralbani9@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <!-- GitHub -->
   <a href="https://github.com/fiqrialbani">
