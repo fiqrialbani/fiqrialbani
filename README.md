@@ -11,9 +11,9 @@
 Front-end focused engineer who enjoys crafting beautiful web experiences and bringing designs to life through clean code.
 
 **Currently:**
-* 💻 Building responsive web applications using modern web technologies.
-* 🎨 Refining UI/UX implementations to create seamless user journeys.
-* 📚 Deepening knowledge in modern JavaScript frameworks and engineering principles.
+* Building responsive web applications using modern web technologies.
+* Refining UI/UX implementations to create seamless user journeys.
+* Deepening knowledge in modern JavaScript frameworks and engineering principles.
 
 ---
 
