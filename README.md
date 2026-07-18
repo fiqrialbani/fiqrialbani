@@ -1,16 +1,28 @@
-## Hi there 👋
+## 🔗 GitHub Stats
 
-<!--
-**fiqrialbani/fiqrialbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fiqrialbani&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrialbani&layout=compact&theme=tokyonight&langs_count=5" alt="Most Used Languages" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/fiqri-albani-b79386323/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fiqri%20Albani-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <!-- Email -->
+  <a href="fiqrialbani9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EMAIL_KAMU-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/fiqrialbani">
+    <img src="https://img.shields.io/badge/GitHub-FIQRIALBANI-darksalmon?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
