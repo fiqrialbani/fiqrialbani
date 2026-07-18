@@ -102,16 +102,15 @@ An Informatics Engineering student who loves building interactive and clean user
 ## Connect
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/fiqri-albani-b79386323/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fiqri%20Albani-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/fiqri-albani-b79386323/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Email -->
+  &nbsp;&nbsp;
   <a href="mailto:fiqrialbani9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fiqrialbani9%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- GitHub -->
-  <a href="https://github.com/fiqrialbani">
-    <img src="https://img.shields.io/badge/GitHub-FIQRIALBANI-darksalmon?style=for-the-badge&logo=github" alt="GitHub" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/fiqrialbani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
