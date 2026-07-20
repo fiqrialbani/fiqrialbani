@@ -15,8 +15,6 @@ An Informatics Engineering student who loves building interactive and clean user
 * Refining UI/UX implementations to create seamless user journeys.
 * Deepening knowledge in modern JavaScript frameworks and engineering principles.
 
----
-
 ### Tech Stack
 
 <p align="left">
@@ -28,13 +26,11 @@ An Informatics Engineering student who loves building interactive and clean user
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <!-- React JS -->
+  <img src="https://img.shields.io/badge/React_JS-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React JS" />
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
-
----
-
----
 
 ###  Featured Projects
 
@@ -76,17 +72,7 @@ An Informatics Engineering student who loves building interactive and clean user
   </tr>
 </table>
 
----
-
-### My Coding Music
-
-<p align="center">
-  <a href="https://open.spotify.com/user/313vzi3lxsjawnlbodv2etayxa2e?si=c75b2665323d4937" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Listening%20to%20Indie%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
-  </a>
-</p>
-
-## 🔗 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <!-- GitHub Stats Card  -->
@@ -95,8 +81,6 @@ An Informatics Engineering student who loves building interactive and clean user
   <!-- Most Used Languages Card  -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fiqrialbani&layout=compact&langs_count=5&bg_color=0d1117&title_color=ff0000&text_color=ffffff&border_color=0088ff" alt="Most Used Languages" />
   <br/>
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiqrialbani&theme=radical&background=0d1117&fire=ff0000&ring=ff0000&seg1=0088ff&seg2=0088ff&stroke=ff0000" alt="GitHub Streak Stats" />
 </p>
 
 ## Connect
