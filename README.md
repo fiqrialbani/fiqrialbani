@@ -72,16 +72,7 @@ An Informatics Engineering student who loves building interactive and clean user
   </tr>
 </table>
 
-## GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats Card  -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fiqrialbani&show_icons=true&count_private=true&bg_color=0d1117&title_color=ff0000&icon_color=0088ff&text_color=ffffff&border_color=ff0000" alt="GitHub Stats" />
-  <br/>
-  <!-- Most Used Languages Card  -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fiqrialbani&layout=compact&langs_count=5&bg_color=0d1117&title_color=ff0000&text_color=ffffff&border_color=0088ff" alt="Most Used Languages" />
-  <br/>
-</p>
 
 ## Connect
 
